@@ -1,0 +1,1 @@
+This example demonstrates an uncommon error that can occur in Python. When using conditional returns, it's important to be mindful of potential NoneType values, even when error handling is present in the 'if' condition.  A more robust approach involves handling such cases explicitly. This repository shows both the problematic code and its corrected version. 
